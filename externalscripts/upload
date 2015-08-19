@@ -1,0 +1,1 @@
+cat /etc/zabbix/externalscripts/speedtest/speedtest.lst | grep Upload | awk '{print $2}' | awk -F . '{print $1}'
