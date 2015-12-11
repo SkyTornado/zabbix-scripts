@@ -90,7 +90,7 @@ DBHost=localhost
 # Default:
 # DBName=
 
-DBName=zabbix
+DBName=
 
 ### Option: DBSchema
 #	Schema name. Used for IBM DB2.
@@ -106,7 +106,7 @@ DBName=zabbix
 # Default:
 # DBUser=
 
-DBUser=zabbix
+DBUser=
 
 ### Option: DBPassword
 #	Database password. Ignored for SQLite.
@@ -116,7 +116,7 @@ DBUser=zabbix
 # Default:
 # DBPassword=
 
-DBPassword=alexandr
+DBPassword=
 
 ### Option: DBSocket
 #	Path to MySQL socket.
